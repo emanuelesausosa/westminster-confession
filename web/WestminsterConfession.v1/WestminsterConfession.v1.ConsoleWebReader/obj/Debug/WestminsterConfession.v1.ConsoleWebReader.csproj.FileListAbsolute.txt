@@ -1,0 +1,16 @@
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\WestminsterConfession.v1.ConsoleWebReader.exe.config
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\WestminsterConfession.v1.ConsoleWebReader.exe
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\WestminsterConfession.v1.ConsoleWebReader.pdb
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\WestminsterConfession.v1.Bussines.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\WestminsterConfession.v1.DB.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\EntityFramework.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\WestminsterConfession.v1.Bussines.pdb
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\WestminsterConfession.v1.Bussines.dll.config
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\WestminsterConfession.v1.DB.pdb
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\WestminsterConfession.v1.DB.dll.config
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\bin\Debug\EntityFramework.xml
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\obj\Debug\WestminsterConfession.v1.ConsoleWebReader.csprojAssemblyReference.cache
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\obj\Debug\WestminsterConfession.v1.ConsoleWebReader.csproj.CoreCompileInputs.cache
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\obj\Debug\WestminsterConfession.v1.ConsoleWebReader.csproj.CopyComplete
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\obj\Debug\WestminsterConfession.v1.ConsoleWebReader.exe
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.ConsoleWebReader\obj\Debug\WestminsterConfession.v1.ConsoleWebReader.pdb

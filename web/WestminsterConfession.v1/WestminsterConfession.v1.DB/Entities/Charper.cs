@@ -13,5 +13,8 @@ namespace WestminsterConfession.v1.DB.Entities
     public int NumberPosition { get; set; }
     public string RomanNumber { get; set; }
     public string Resume { get; set; }
+    public virtual ICollection<Section> Sections { get; set; }
+
   }
+
 }

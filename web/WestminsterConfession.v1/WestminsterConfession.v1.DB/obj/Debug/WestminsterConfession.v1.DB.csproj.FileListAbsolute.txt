@@ -1,0 +1,12 @@
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\bin\Debug\WestminsterConfession.v1.DB.dll.config
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\bin\Debug\WestminsterConfession.v1.DB.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\bin\Debug\WestminsterConfession.v1.DB.pdb
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\bin\Debug\EntityFramework.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\bin\Debug\EntityFramework.xml
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\obj\Debug\WestminsterConfession.v1.DB.csprojAssemblyReference.cache
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\obj\Debug\WestminsterConfession.v1.DB.csproj.CoreCompileInputs.cache
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\obj\Debug\WestminsterConfession.v1.DB.csproj.CopyComplete
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\obj\Debug\WestminsterConfession.v1.DB.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.DB\obj\Debug\WestminsterConfession.v1.DB.pdb

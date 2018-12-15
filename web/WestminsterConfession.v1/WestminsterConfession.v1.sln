@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WestminsterConfession.v1.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WestminsterConfession.v1.DB", "WestminsterConfession.v1.DB\WestminsterConfession.v1.DB.csproj", "{B7FBFC36-7DB5-441B-A361-9A7EFC1BECD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WestminsterConfession.v1.Bussines", "WestminsterConfession.v1.Bussines\WestminsterConfession.v1.Bussines.csproj", "{BDBD963E-C9DB-48C6-A22A-20D546607DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WestminsterConfession.v1.ConsoleWebReader", "WestminsterConfession.v1.ConsoleWebReader\WestminsterConfession.v1.ConsoleWebReader.csproj", "{3A78A253-2830-4A8B-A92A-00EE0FB5CA55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WestminsterConfession.v1.WebApp", "WestminsterConfession.v1.WebApp\WestminsterConfession.v1.WebApp.csproj", "{9EF9C459-C8B8-42F1-919E-278A824A10B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{B7FBFC36-7DB5-441B-A361-9A7EFC1BECD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7FBFC36-7DB5-441B-A361-9A7EFC1BECD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7FBFC36-7DB5-441B-A361-9A7EFC1BECD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBD963E-C9DB-48C6-A22A-20D546607DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBD963E-C9DB-48C6-A22A-20D546607DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBD963E-C9DB-48C6-A22A-20D546607DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBD963E-C9DB-48C6-A22A-20D546607DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A78A253-2830-4A8B-A92A-00EE0FB5CA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A78A253-2830-4A8B-A92A-00EE0FB5CA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A78A253-2830-4A8B-A92A-00EE0FB5CA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A78A253-2830-4A8B-A92A-00EE0FB5CA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF9C459-C8B8-42F1-919E-278A824A10B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF9C459-C8B8-42F1-919E-278A824A10B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF9C459-C8B8-42F1-919E-278A824A10B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF9C459-C8B8-42F1-919E-278A824A10B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

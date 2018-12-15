@@ -1,0 +1,15 @@
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\WestminsterConfession.v1.Bussines.dll.config
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\WestminsterConfession.v1.Bussines.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\WestminsterConfession.v1.Bussines.pdb
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\EntityFramework.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\WestminsterConfession.v1.DB.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\WestminsterConfession.v1.DB.pdb
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\WestminsterConfession.v1.DB.dll.config
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\EntityFramework.xml
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\obj\Debug\WestminsterConfession.v1.Bussines.csprojAssemblyReference.cache
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\obj\Debug\WestminsterConfession.v1.Bussines.csproj.CoreCompileInputs.cache
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\obj\Debug\WestminsterConfession.v1.Bussines.csproj.CopyComplete
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\obj\Debug\WestminsterConfession.v1.Bussines.dll
+C:\Sites\WestminsterConfession\web\WestminsterConfession.v1\WestminsterConfession.v1.Bussines\obj\Debug\WestminsterConfession.v1.Bussines.pdb
