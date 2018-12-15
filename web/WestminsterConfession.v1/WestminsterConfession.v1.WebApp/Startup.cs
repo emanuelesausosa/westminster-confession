@@ -7,8 +7,6 @@ using Ninject.Web.Common.OwinHost;
 using Ninject.Web.WebApi;
 using Ninject.Web.WebApi.OwinHost;
 using Owin;
-using Unity;
-using Unity.Lifetime;
 using WestminsterConfession.v1.Bussines.Managers;
 using WestminsterConfession.v1.DB;
 using WestminsterConfession.v1.WebApp.Infraestructure;

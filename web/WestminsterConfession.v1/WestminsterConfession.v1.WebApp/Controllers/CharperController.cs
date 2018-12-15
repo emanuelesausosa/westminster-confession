@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Threading.Tasks;
 using System.Web.Http;
 using WestminsterConfession.v1.Bussines.DTOs;
 using WestminsterConfession.v1.Bussines.Managers;
@@ -16,6 +17,14 @@ namespace WestminsterConfession.v1.WebApp.Controllers
         public CharperController(CharperManager charperManager)
         {
             _charperManager = charperManager;
+        }
+
+        [HttpGet]
+        [Route("all")]
+        public async Task<IHttpActionResult> GetAllCharpers()
+        {
+            var result = await _charperManager.GetAllCharpers();
+            return Ok(result);
         }
 
         [HttpPost]
