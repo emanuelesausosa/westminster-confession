@@ -16,8 +16,15 @@ namespace WestminsterConfession.v1.DB
         {
             // add configuraton abot migration strategy
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<CoreDBContext, Migrations.Configuration>());
-        }   
-        
+        }
+
+        public CoreDBContext(System.Data.Common.DbConnection dbConnection)
+            : base("WestminsterDB")
+        {
+            // add configuraton abot migration strategy
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<CoreDBContext, Migrations.Configuration>());
+        }
+
         // list of entites to bind
         public DbSet<Charper> Charpers { get; set; }
         public DbSet<Section> Sections { get; set; }
@@ -29,7 +36,7 @@ namespace WestminsterConfession.v1.DB
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.HasDefaultSchema("Core");
+            // modelBuilder.HasDefaultSchema("Core");
 
             modelBuilder.Configurations.Add(new CharperMapping());
             modelBuilder.Configurations.Add(new SectionMapping());

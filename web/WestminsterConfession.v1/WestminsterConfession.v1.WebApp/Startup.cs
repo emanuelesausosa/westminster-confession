@@ -4,8 +4,14 @@ using System.Web.Http;
 using Microsoft.Owin;
 using Ninject;
 using Ninject.Web.Common.OwinHost;
+using Ninject.Web.WebApi;
 using Ninject.Web.WebApi.OwinHost;
 using Owin;
+using Unity;
+using Unity.Lifetime;
+using WestminsterConfession.v1.Bussines.Managers;
+using WestminsterConfession.v1.DB;
+using WestminsterConfession.v1.WebApp.Infraestructure;
 using WestminsterConfession.v1.WebApp.NinjectModules;
 
 [assembly: OwinStartup(typeof(WestminsterConfession.v1.WebApp.Startup))]
@@ -20,7 +26,7 @@ namespace WestminsterConfession.v1.WebApp
             ConfigureWebApi(httpConfiguration);
             app.UseWebApi(httpConfiguration);
 
-            var kernel = CreateKernel();
+            var kernel = CreateKernel();            
             app.UseNinjectMiddleware(() => kernel).UseNinjectWebApi(httpConfiguration);
 
         }
@@ -29,11 +35,11 @@ namespace WestminsterConfession.v1.WebApp
         {
             config.MapHttpAttributeRoutes();
 
-            config.Routes.MapHttpRoute(
-                name: "DefaultApi",
-                routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
-            );
+            //config.Routes.MapHttpRoute(
+            //    name: "DefaultApi",
+            //    routeTemplate: "api/{controller}/{id}",
+            //    defaults: new { id = RouteParameter.Optional }
+            //);           
         }
 
         public static IKernel CreateKernel()
@@ -42,5 +48,6 @@ namespace WestminsterConfession.v1.WebApp
             kernel.Settings.AllowNullInjection = true;
             return kernel;
         }
+
     }
 }

@@ -9,6 +9,7 @@ using WestminsterConfession.v1.Bussines.Managers;
 
 namespace WestminsterConfession.v1.WebApp.Controllers
 {
+    [RoutePrefix("api/charper")]
     public class CharperController : ApiController
     {
         private readonly CharperManager _charperManager;

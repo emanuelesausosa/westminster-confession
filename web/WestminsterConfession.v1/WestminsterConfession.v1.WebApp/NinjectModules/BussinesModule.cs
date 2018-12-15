@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using WestminsterConfession.v1.Bussines.Managers;
+using WestminsterConfession.v1.DB;
+using WestminsterConfession.v1.WebApp.Infraestructure;
 
 namespace WestminsterConfession.v1.WebApp.NinjectModules
 {
@@ -13,6 +15,10 @@ namespace WestminsterConfession.v1.WebApp.NinjectModules
     {
         public override void Load()
         {
+            Bind<IDBFactory>()
+               .To<AppDbFactory>()
+               .InRequestScope();
+
             Bind<CharperManager>().ToSelf().InRequestScope();
         }
     }

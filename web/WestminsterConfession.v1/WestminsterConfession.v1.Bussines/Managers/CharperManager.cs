@@ -57,8 +57,9 @@ namespace WestminsterConfession.v1.Bussines.Managers
                     return true;
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                Console.WriteLine(ex);
                 return false;
             }
         }
